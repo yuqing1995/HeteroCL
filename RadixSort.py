@@ -1,7 +1,7 @@
 # 12/16/2018
 # Qing Yu Cornell ECE
 # This is the program using HeteroCL language to implement Radix Sort Algorithm
-# The sorting algorithm inside the radix sort is using counting sort algorithm
+# Counting sort algorithm is used inside the radix sort algorithm
 ##################################################################################
 # Import Library
 import heterocl as hcl
